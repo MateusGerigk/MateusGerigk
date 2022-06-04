@@ -1,5 +1,5 @@
 
-  <h2> Olá! Eu sou o Mateus Gerigk <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h2>
+  <h2> Olá! Eu sou o Mateus Gerigk!</h2>
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=MateusGerigk&color=orange" alt="Profile views" /> </p>
 
   <a href="https://github.com/MateusGerigk">
