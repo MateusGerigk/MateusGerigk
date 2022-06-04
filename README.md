@@ -28,17 +28,14 @@
 ##  &nbsp;Conecte-se comigo 🤜🏻🤛🏻
 
 <p align="left" style="background:orange">
-<a href="https://codepen.io/MateusGerigk" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-MateusGerigk-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
 <a href="https://twitter.com/Mateus_Gerigk" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Mateus_Gerigk-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/mateus-gerigk" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Mateus Gerigk-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/teusq" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Teusq-05122A?style=flat&logo=instagram" alt="instagram"/>
+<a href="https://instagram.com/mateusgerigk" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-mateusgerigk-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
