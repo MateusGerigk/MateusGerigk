@@ -1,6 +1,6 @@
 <img src="https://cdni.iconscout.com/illustration/premium/thumb/data-science-7440339-6077685.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-## 💜 Olá, meu nome é <strong>Mateus Gerigk!</strong>
+## Olá, meu nome é <strong>Mateus Gerigk!</strong>
 
 > Com 6 anos de experiência na área comercial, estou atualmente em transição para a área de dados. Minha jornada profissional até o momento me proporcionou habilidades sólidas baseadas no relacionamento empresarial e compreensão das necessidades do mercado.
 
