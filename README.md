@@ -2,22 +2,12 @@
 
 ## Olá, meu nome é <strong>Mateus Gerigk!</strong>
 
-> Com 6 anos de experiência na área comercial, estou atualmente em transição para a área de dados. Minha jornada profissional até o momento me proporcionou habilidades sólidas baseadas no relacionamento empresarial e compreensão das necessidades do mercado.
+> Com 6 anos de experiência na área comercial, estou atualmente em transição para o desenvolvimento de software. Minha jornada profissional até o momento me proporcionou habilidades sólidas baseadas no relacionamento empresarial e compreensão das necessidades do mercado.
 
-> Este repositório acompanha minha transição de carreira, documentando meu progresso e aprendizado ao explorar análise e interpretação de informações. Acompanhe minha jornada enquanto mergulho nesse novo campo!
-
-> Vamos explorar juntos o mundo dos dados! 📊
+> Este repositório acompanha minha transição de carreira, documentando meu progresso e aprendizado ao explorar o universo do desenvolvimento. Acompanhe minha jornada enquanto mergulho nesse novo campo!
 
 ### 💻 Hard Skills
 
-![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![TABLEAU](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
